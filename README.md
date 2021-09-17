@@ -1,35 +1,28 @@
-# NFT-COURSE
+# Trilhaas | NFTs Generative Arts
 
-Welcome to the Block Devs United NFT course! Join our [Discord Channel](https://discord.gg/Bkj7rVCa2W) to talk to people in this course.
+Bem-vindo(a)!
 
-In the discord channel you will find help and support for passing the requirements each week!
+Faça parte do [Canal de Discord](https://discord.gg/nHdsFtg3) para interagir com outros seres humanos da Comunidade Trilhaas.
 
-If you want to join, just sign up here. https://docs.google.com/spreadsheets/d/1cwcayUhDHuin0dvpQZu8IUMXeVr6yqZXGTGol4_9CdU/edit?usp=sharing
+Nesse canal de discord você encontrará ajuda e suporte para passar pelos requerimentos de cada semana!
 
-## Course Information
+Se você quer participar dessa trilha, é só se inscrever aqui:[Inscrições Trilha](https://docs.google.com/spreadsheets/d/1HwYzciwlzUqgn4A01_4VwUD9rMPuwjcvh2JoXHVCC7I/edit#gid=0&range=A1)
 
-* A four week course on NFT Development
-* This is our first course
-* Build as we go, Community created
-* Peer to peer learning
-* Join if you have a desire to learn NFT development as a group.
-* The success of this cohort will serve as a benchmark for the next cohorts
+## Informação da Trilha
+
+* Uma trilha de 4 semanas sobre NFTs Generative Arts
+* Melhorado em cada edição a partir das vivencias dos participantes da Comunidade como você
+* Todos somos eternos aprendedores
 * Open source
-* We will have meetups at the start of each week.
-* Tutorials and guides will be made available on our Github
-* Everyone who completes the course will be granted an “BDU NFT Developer Certificate”
-* Certificates are non-transferable NFT’s
+* Teremos meetups no inicio de cada semana da trilha
+* Tutoriais e guias serão criadas e disponibilizadas nesse repósitorio
+* Cada contribuição feita por você na trilha pode ser registrada no seu perfil
 
-### Tools
+### Regras
 
-* Solidity
-* Open Zeppelin
-* Hardhat
-
-### Rules
-
-* Anyone can join
-* Sign ups are closed! If you want to take the course, the next NFT course schedule will be announced soon!
+* Ser Contribuição
+* Todos tem direito a participar dessa trilha
+* Inscrições estão abertas continuamente. Consulta quando vai ser a próxima trilha visitando a página Inscrições Trilha acima.
 
 #### Getting the Certificate
 * Must complete course work to progress to next week
@@ -37,36 +30,47 @@ If you want to join, just sign up here. https://docs.google.com/spreadsheets/d/1
 * If you fail to progress you can join the next course (in 1-2 months)
 * Nobody is prevented from learning, joining events etc.
 
-## Course Content
+## Conteúdo da Trilha
 
-Here is the course outline, week by week.
+Aqui está o resumo da trilha, semana por semana.
 
-### Week 1 - Deploying NFT Contracts
+### Week 1 - NFTs Generative Arts
 
-#### Tutorials
+#### Tutoriais
 
-* Follow this Tutorial - https://github.com/BlockDevsUnited/NFT-Tutorial
-* Attend this workshop for extra traning: https://www.meetup.com/Blockchain-Developers-Canada/events/280474528/
+* Siga este Tutorial - https://github.com/
+
+#### Desafios
+* Demonstrar habilidade para criar artes generativas
+* Demonstrar habilidades utilizando um Art Engine
+* Demonstrar habilidades criando Layers
+
+
+### Week 2 - Smart Contracts on testnet
+
+#### Tutoriais
+
+* Siga este Tutorial - https://github.com/
+
+#### Desafios
+* Demonstrar habilidade para criar Smart Contracts
+* Demonstrar habilidades em Deploy de Smart Contracts
+* Demonstrar habilidades em Publicação e Verificação de Smart Contracts
+* Demonstrar habilidades para fazer Minting
+
+
+### Week 3 - Collaborative week
+
+Nós vamos juntos criar uma nova coleção de Generative Art.
+
+#### Tutoriais
+
+* Siga este Tutorial - https://github.com/
 
 #### Requirements
-* Demonstrate ability to deploy ERC721 and ERC1155 smart contracts on Ethereum testnet
-* Verify Contract on etherscan
+* Criar uma nova coleção de Generative Art
+* Criar um mecanismo para fazer o Minting da coleção
 
-### Week 2 - NFT metadata and marketplace integration
-* Follow [This Tutorial](https://github.com/BlockDevsUnited/NFT-COURSE/blob/main/Week2_Metadata_and_Marketplace.md)
-* A recording of our workshop is also available, in case you find it helpful https://drive.google.com/drive/folders/1zBUlesT9q35Id_VtaAmvs4scz-nGQDV3?usp=sharing
-
-#### Requirements
-* Create offchain metadata for your NFT (e.g. images, text, stats)
-* Connect the metadata to your NFT contract
-* Make your NFT visible on testnet.opensea.io
-
-### Week 3 - Generative Art
-
-Collaborative week. We will develop code together, to create generative art NFT’s.
-
-#### Requirements
-* Succeed as a group in creating a generative art NFT
 
 ### Week 4 - Deploy Live project
 
