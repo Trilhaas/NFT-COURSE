@@ -11,8 +11,9 @@ Se você quer participar dessa trilha, é só se inscrever aqui:[Inscrições Tr
 ## Informação da Trilha
 
 * Uma trilha de 4 semanas sobre NFTs Generative Arts
-* Melhorado em cada edição a partir das vivencias dos participantes da Comunidade como você
+* Melhorada em cada edição a partir das vivencias dos participantes da Comunidade como você
 * Todos somos eternos aprendedores
+* Compartilhe o porquê quer participar dessa trilha
 * Open source
 * Teremos meetups no inicio de cada semana da trilha
 * Tutoriais e guias serão criadas e disponibilizadas nesse repósitorio
